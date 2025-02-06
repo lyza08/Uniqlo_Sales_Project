@@ -1,57 +1,42 @@
-Here’s a README.md file for your GitHub repository based on your report:
+**Uniqlo Expansion Plan (France) – Power BI Analysis**
+**Overview**
 
-Uniqlo Expansion Plan (France) – Power BI Analysis
+This project analyzes Uniqlo’s expansion strategy in France using Power BI. The goal is to assess market trends, regional performance, 
+and competitive dynamics to determine optimal store locations for Uniqlo’s growth.
 
-Overview
-
-This project analyzes Uniqlo’s expansion strategy in France using Power BI. The goal is to assess market trends, regional performance, and competitive dynamics to determine optimal store locations for Uniqlo’s growth.
-
-Key Objectives
-	•	Evaluate Uniqlo’s current presence in France (270 stores)
-	•	Conduct SWOT Analysis and Porter’s Five Forces analysis
-	•	Use Power BI visualizations to assess sales trends, customer demographics, and competitor positioning
-	•	Recommend optimal store expansion strategy based on data insights
+**Key Objectives**
+	Evaluate Uniqlo’s current presence in France (270 stores)
+	Conduct SWOT Analysis and Porter’s Five Forces analysis
+	Use Power BI visualizations to assess sales trends, customer demographics, and competitor positioning
+	Recommend optimal store expansion strategy based on data insights
 
 Data Analysis & Insights
 
-Internal Analysis
-	•	Strengths: Strong brand reputation, quality products, sustainability initiatives
-	•	Weaknesses: Limited regional coverage, fewer stores than competitors (Zara, H&M)
-	•	Opportunities: Expansion into underserved regions, digital transformation
-	•	Threats: Intense competition, economic fluctuations, evolving consumer preferences
+**Internal Analysis**
+	Strengths: Strong brand reputation, quality products, sustainability initiatives
+	Weaknesses: Limited regional coverage, fewer stores than competitors (Zara, H&M)
+	Opportunities: Expansion into underserved regions, digital transformation
+	Threats: Intense competition, economic fluctuations, evolving consumer preferences
 
-External Market Trends
-	•	Rising demand for sustainable fashion
-	•	Shift towards e-commerce and digital presence
-	•	French consumers are price-sensitive but value quality
+**External Market Trends**
+	Rising demand for sustainable fashion
+	Shift towards e-commerce and digital presence
+	French consumers are price-sensitive but value quality
 
-Visualization Strategy
-	•	Sales Trends: Line & Column Charts
-	•	Market Share Comparison: Stacked Column Chart
-	•	Profitability & Customer Insights: Bar & Pie Charts
+**Visualization Strategy**
+	Sales Trends: Line & Column Charts
+	Market Share Comparison: Stacked Column Chart
+	Profitability & Customer Insights: Bar & Pie Charts
 
-Expansion Plan Recommendation
-	•	Open one store per region per year (for two years)
-	•	Prioritize high-growth regions (e.g., Auvergne-Rhône-Alpes, Grand Est)
-	•	Review expansion performance in Q1 2025 for data-driven adjustments
+**Expansion Plan Recommendation**
+	Open one store per region per year (for two years)
+	Prioritize high-growth regions (e.g., Auvergne-Rhône-Alpes, Grand Est)
+	Review expansion performance in Q1 2025 for data-driven adjustments
 
-Technologies Used
-	•	Power BI for data visualization
-	•	Excel/CSV datasets for market analysis
-	•	Python/Pandas (if applicable) for preprocessing
+**Technologies Used**
+	Power BI for data visualization
+	Excel/CSV datasets for market analysis
 
-How to Use This Repository
-	1.	Download the Power BI Dashboard (.pbix file)
-	2.	Open in Power BI and explore visualizations
-	3.	Review insights and recommendations
 
-Contributors
-	•	Liza Gyamaa Oppong
-	•	Aroosha Sudheer
-	•	Alishba Iqbal
 
-License
-
-This project is for academic and research purposes only.
-
-Would you like to include links to the datasets or the Power BI dashboard? Let me know if you need any modifications!
+	By: Liza Gyamaa Oppong
