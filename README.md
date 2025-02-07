@@ -14,6 +14,7 @@ and competitive dynamics to determine optimal store locations for Uniqlo’s gro
 Data Analysis & Insights
 
 **Internal Analysis**
+
 	Strengths: Strong brand reputation, quality products, sustainability initiatives
 	Weaknesses: Limited regional coverage, fewer stores than competitors (Zara, H&M)
 	Opportunities: Expansion into underserved regions, digital transformation
@@ -25,16 +26,19 @@ Data Analysis & Insights
 	French consumers are price-sensitive but value quality
 
 **Visualization Strategy**
+
 	Sales Trends: Line & Column Charts
 	Market Share Comparison: Stacked Column Chart
 	Profitability & Customer Insights: Bar & Pie Charts
 
 **Expansion Plan Recommendation**
+
 	Open one store per region per year (for two years)
 	Prioritize high-growth regions (e.g., Auvergne-Rhône-Alpes, Grand Est)
 	Review expansion performance in Q1 2025 for data-driven adjustments
 
 **Technologies Used**
+
 	Power BI for data visualization
 	Excel/CSV datasets for market analysis
 
