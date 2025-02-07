@@ -5,6 +5,7 @@ This project analyzes Uniqlo’s expansion strategy in France using Power BI. Th
 and competitive dynamics to determine optimal store locations for Uniqlo’s growth.
 
 **Key Objectives**
+
 	Evaluate Uniqlo’s current presence in France (270 stores)
 	Conduct SWOT Analysis and Porter’s Five Forces analysis
 	Use Power BI visualizations to assess sales trends, customer demographics, and competitor positioning
